@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nalakwenda
 - 👀 I’m interested in Machine Learning and Web Development
-- 🌱 I’m currently improving my machine learning web development skills and knowledge
+
 
 
 
