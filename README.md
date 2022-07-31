@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nalakwenda, a fullstack developer. I develop mobile and web Applications.
+👋 Hi, I’m @nalakwenda, a fullstack developer. I develop mobile and web Applications.
 
-##Stack
+## Stack
 -Python
 -JavaScript
 -React
