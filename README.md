@@ -1,7 +1,16 @@
-- 👋 Hi, I’m @nalakwenda
-- 👀 I’m interested in Machine Learning and Web Development
+- 👋 Hi, I’m @nalakwenda, a fullstack developer. I develop mobile and web Applications.
 
-
+##Stack
+-Python
+-JavaScript
+-React
+-React Native
+-Redux Tooklit
+-HTML
+-CSS
+ 
+ Social Media
+ -Twitter 
 
 
 <!---
