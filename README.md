@@ -1,16 +1,17 @@
-👋 Hi, I’m @nalakwenda, a fullstack developer. I develop mobile and web Applications.
+👋 Hi, I’m Enala Kwenda, a fullstack developer. I develop mobile and web Applications.
 
 ## Stack
--Python
--JavaScript
--React
--React Native
--Redux Tooklit
--HTML
--CSS
+- Python
+- JavaScript
+- React
+- React Native
+- Redux Tooklit
+- HTML
+- CSS
  
- Social Media
- -Twitter 
+ ## Social Media
+ - [Twitter](https://twitter.com/nalakwenda)
+ - [LinkedIn](https://www.linkedin.com/in/enala-kwenda-8b4022127/)
 
 
 <!---
