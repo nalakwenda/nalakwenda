@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m [Your Name] — A Builder of Smart, Curious, and Useful Things 🚀
+# 👋 Hey there, I’m Enala Kwenda — A Builder of Smart, Curious, and Useful Things 🚀
 
 Welcome to my code cave! 🧠💻  
 I'm a **Data + AI-powered Software Developer** who thrives at the intersection of **machine learning, backend engineering, and business intelligence**.  
