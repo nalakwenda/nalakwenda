@@ -11,7 +11,7 @@ Whether it's extracting patterns from thousands of messy bug reports, visualizin
 - 🧠 **Intelligent Dashboards**: From Django to Streamlit, I turn raw data into slick, interactive insights.
 - 🔍 **Topic Modeling Projects**: I'm a fan of uncovering what users *really* mean — whether it's from GitHub issues, product feedback, or exit interviews.
 - 🌿 **Experimental AI**: I'm exploring how ML can interpret nature, like visualizing **nyctinasty** (plant sleep movements) using computer vision + ML.
-- 📊 **Business Intelligence Meets NLP**: I combine LDA, transformers, and BI strategy to help teams see what matters most.
+- 📊 **Business Intelligence Meets NLP**: Combining Process Automation and BI strategy to help teams see what matters most.
 
 ---
 
@@ -30,11 +30,6 @@ Whether it's extracting patterns from thousands of messy bug reports, visualizin
 
 ---
 
-## ✨ Featured Project
-**🕵️‍♂️ BugScope: Extracting the hidden themes in 1,000+ software issues**  
-> LDA + Django + Streamlit dashboard that clusters issue descriptions into actionable themes like "auth errors", "performance bottlenecks", and "frontend crashes".
-
----
 
 ## 📫 Let’s Collaborate!
 Got a cool idea around **AI for BI**, **intelligent automation**, or **data storytelling**?  
