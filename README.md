@@ -1,9 +1,9 @@
-# 👋 Hey there, I’m Enala Kwenda — A Builder of Smart, Curious, and Useful Things 🚀
+# 👋 Hey there, I’m Enala Kwenda - A Builder of Smart, Curious, and Useful Things 🚀
 
 Welcome to my code cave! 🧠💻  
 I'm a **Data + AI-powered Software Developer** who thrives at the intersection of **machine learning, backend engineering, and business intelligence**.  
 
-Whether it's extracting patterns from thousands of messy bug reports, visualizing plant movements with computer vision, or making enterprise data speak in human language — I'm all about making insights **visual, actionable, and unforgettable**.
+Whether it's extracting patterns from thousands of messy bug reports, visualizing plant movements with computer vision, or making enterprise data speak in human language - I'm all about making insights **visual, actionable, and unforgettable**.
 
 ---
 
