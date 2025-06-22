@@ -8,7 +8,7 @@ Whether it's extracting patterns from thousands of messy bug reports, visualizin
 ---
 
 ## ⚡️ What I Build
-- 🧠 **Intelligent Dashboards**: From Django to Streamlit, I turn raw data into slick, interactive insights.
+- 🧠 **Intelligent Dashboards**: From Power BI to Streamlit, I turn raw data into slick, interactive insights.
 - 🔍 **Topic Modeling Projects**: I'm a fan of uncovering what users *really* mean - whether it's from GitHub issues or product feedback.
 - 🌿 **Experimental AI**: I'm exploring how ML can interpret nature, like visualizing **nyctinasty** (plant sleep movements) using computer vision + ML.
 - 📊 **Business Intelligence Meets NLP**: Combining Process Automation and BI strategy to help teams see what matters most.
