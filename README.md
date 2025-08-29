@@ -16,16 +16,15 @@ Whether it's extracting patterns from thousands of messy bug reports, visualizin
 ---
 
 ## 🔧 Tech Toolbox
-- 🐍 Python | 🧪 Scikit-Learn | 🧠 Gensim | 🤖 Transformers  
+- 🐍 Python  | 🧠 Gensim 
 - 🧱 Django | ⚡ FastAPI | 🧬 PostgreSQL  
 - 📊 Pandas | 📉 Seaborn | 📈 Streamlit | 🧼 NLP  
-- 🔒 Bug Bounty Learner | 🔍 Data Detective | 🛠 Idea Machine
+- 🔍 Data Detective 
 
 ---
 
 ## 🌱 Currently Exploring
-- LLM-powered feedback summarizers for product teams  
-- AI-based bug report triage system using topic modeling + sentiment  
+- LLM-powered feedback summarizers for product teams 
 - Visualization of circadian plant behavior (aka “plant dreams 🌙”)
 
 ---
@@ -55,7 +54,7 @@ Let’s build something people will *talk about* (or train an LDA model to tell 
 - CSS
  
  ## Social Media
- - [Twitter](https://twitter.com/nalakwenda)
+ - [X](https://twitter.com/nalakwenda)
  - [LinkedIn](https://www.linkedin.com/in/enala-kwenda-8b4022127/)
 
 
