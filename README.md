@@ -1,64 +1,29 @@
-# 👋 Hey there, I’m Enala Kwenda - A Builder of Smart, Curious, and Useful Things 🚀
+# Enala Kwenda
 
-Welcome to my code cave! 🧠💻  
-I'm a **Data + AI-powered Software Developer** who thrives at the intersection of **machine learning, backend engineering, and business intelligence**.  
+I turn messy data into things people can actually use — dashboards that get read, models that catch what users *mean* instead of just what they typed, and the occasional experiment where I point a computer vision model at a plant to see what it does while it sleeps.
 
-Whether it's extracting patterns from thousands of messy bug reports, visualizing plant movements with computer vision, or making enterprise data speak in human language - I'm all about making insights **visual, actionable, and unforgettable**.
+Data + AI, with a bias toward shipping. I work across ML, backend, and BI.
 
----
+### What I'm working on
 
-## ⚡️ What I Build
-- 🧠 **Intelligent Dashboards**: From Power BI to Streamlit, I turn raw data into slick, interactive insights.
-- 🔍 **Topic Modeling Projects**: I'm a fan of uncovering what users *really* mean - whether it's from GitHub issues or product feedback.
-- 🌿 **Experimental AI**: I'm exploring how ML can interpret nature, like visualizing **nyctinasty** (plant sleep movements) using computer vision + ML.
-- 📊 **Business Intelligence Meets NLP**: Combining Process Automation and BI strategy to help teams see what matters most.
+- **Topic modeling for feedback that piles up faster than anyone can read it** — GitHub issues, product reviews, support tickets. LDA and friends, surfacing the themes a human would miss somewhere around ticket #4,000.
+- **Nyctinasty on camera** — using computer vision + ML to track how plants move when they "sleep." Yes, plant dreams. It's as fun as it sounds.
+- **LLM-powered summarizers** that hand product teams the gist of a thousand comments without the doomscroll.
+- **Dashboards in Power BI and Streamlit** that people open more than once.
 
----
+### Stack
 
-## 🔧 Tech Toolbox
-- 🐍 Python  | 🧠 Gensim 
-- 🧱 Django | ⚡ FastAPI | 🧬 PostgreSQL  
-- 📊 Pandas | 📉 Seaborn | 📈 Streamlit | 🧼 NLP  
-- 🔍 Data Detective 
+**Data / ML** — Python · Gensim · Pandas · Seaborn · NLP
+**Backend** — Django · FastAPI · Java
+**Frontend** — JavaScript · React · React Native · Redux Toolkit · HTML · CSS
+**BI** — Power BI · Streamlit
 
----
+### Let's build something
 
-## 🌱 Currently Exploring
-- LLM-powered feedback summarizers for product teams 
-- Visualization of circadian plant behavior (aka “plant dreams 🌙”)
+Open to freelance, collabs, and long conversations about weird ideas and smarter machines. If you've got something in the AI-for-BI, intelligent automation, or data-storytelling zone, I'm in — or we can train an LDA model to figure out why we're not talking. 😉
 
----
+[LinkedIn](https://www.linkedin.com/in/enala-kwenda-8b4022127/) · [X/Twitter](https://twitter.com/nalakwenda)
 
-
-## 📫 Let’s Collaborate!
-Got a cool idea around **AI for BI**, **intelligent automation**, or **data storytelling**?  
-Let’s build something people will *talk about* (or train an LDA model to tell us why they’re not 😉).  
-
-📍 Open to freelance, collabs, or just a good chat about weird ideas and smarter machines.
-
----
-
-> _“Don’t just show the numbers. Show the story the numbers are trying to tell.”_
-
-🧪 Let’s explore, experiment, and create.
-
-
-
-## Stack
-- Python
-- JavaScript
-- React
-- React Native
-- Redux Tooklit
-- HTML
-- CSS
- 
- ## Social Media
- - [X](https://twitter.com/nalakwenda)
- - [LinkedIn](https://www.linkedin.com/in/enala-kwenda-8b4022127/)
-
-
-<!---
-nalakwenda/nalakwenda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--
+nalakwenda/nalakwenda is a special repo — this README.md renders on your GitHub profile.
+-->
