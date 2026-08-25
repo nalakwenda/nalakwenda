@@ -1,28 +1,28 @@
 # Enala Kwenda
 
-I turn messy data into things people can actually use — dashboards that get read, models that catch what users *mean* instead of just what they typed, and the occasional experiment where I point a computer vision model at a plant to see what it does while it sleeps.
+I'm a data and AI developer. Most of my work sits between machine learning, backend, and business intelligence: building dashboards, training models on text, and making sense of large piles of feedback.
 
-Data + AI, with a bias toward shipping. I work across ML, backend, and BI.
+Lately I've also been pointing a computer vision model at plants to study nyctinasty, which is the fancy word for how some plants fold up and move at night. Basically, plant sleep. It started as a side project and I've gotten a little obsessed.
 
-### What I'm working on
+### Things I work on
 
-- **Topic modeling for feedback that piles up faster than anyone can read it** — GitHub issues, product reviews, support tickets. LDA and friends, surfacing the themes a human would miss somewhere around ticket #4,000.
-- **Nyctinasty on camera** — using computer vision + ML to track how plants move when they "sleep." Yes, plant dreams. It's as fun as it sounds.
-- **LLM-powered summarizers** that hand product teams the gist of a thousand comments without the doomscroll.
-- **Dashboards in Power BI and Streamlit** that people open more than once.
+- Topic modeling on messy text like GitHub issues, product reviews, and support tickets, using LDA and similar methods to find the themes that matter.
+- Plant nyctinasty tracking with computer vision and ML.
+- LLM summarizers that condense big batches of user feedback for product teams.
+- Dashboards in Power BI and Streamlit.
 
 ### Stack
 
-**Data / ML** — Python · Gensim · Pandas · Seaborn · NLP
-**Backend** — Django · FastAPI · Java
-**Frontend** — JavaScript · React · React Native · Redux Toolkit · HTML · CSS
-**BI** — Power BI · Streamlit
+- **Data / ML:** Python, Gensim, Pandas, Seaborn, NLP
+- **Backend:** Django, FastAPI, PostgreSQL
+- **Frontend:** JavaScript, React, React Native, Redux Toolkit, HTML, CSS
+- **BI:** Power BI, Streamlit
 
-### Let's build something
+### Get in touch
 
-Open to freelance, collabs, and long conversations about weird ideas and smarter machines. If you've got something in the AI-for-BI, intelligent automation, or data-storytelling zone, I'm in — or we can train an LDA model to figure out why we're not talking. 😉
+Open to freelance work and collaborations, especially anything around AI for BI, automation, or data storytelling. Also happy to just talk through weird ideas and smarter machines (or train an LDA model to tell us why we're not 😉).
 
-[LinkedIn](https://www.linkedin.com/in/enala-kwenda-8b4022127/) · [X/Twitter](https://twitter.com/nalakwenda)
+[LinkedIn](https://www.linkedin.com/in/enala-kwenda-8b4022127/) · [X/Twitter](https://twitter.com/nalakwenda)  · [Website](https://enalakwenda.vercel.app/)
 
 <!--
 nalakwenda/nalakwenda is a special repo — this README.md renders on your GitHub profile.
